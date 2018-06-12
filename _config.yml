@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: leo zhu
 subtitle:
 description:
 keywords:
-author: John Doe
+author: 朱维
 language:
 timezone:
 
@@ -81,3 +81,4 @@ deploy:
   type: git
   repo: git@github.com:zhuweileo/blog.git
   branch: master
+
